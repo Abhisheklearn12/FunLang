@@ -1,4 +1,4 @@
-#[rust_sitter::grammar("calibre")]
+#[rust_sitter::grammar("FunLang")]
 pub mod grammar {
     #[rust_sitter::grammar]
     #[rust_sitter::language]
